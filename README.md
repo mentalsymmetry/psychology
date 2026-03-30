@@ -20,4 +20,5 @@ Every person possesses all seven modules, but one tends to be dominant, shaping 
 
 ## Topics
 
+- [Detailed Theory of Mental Symmetry](mental_symmetry_theory.md)
 - [Comparison with Big Five Personality Model](big_five_comparison.md)
