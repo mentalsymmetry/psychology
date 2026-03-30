@@ -21,4 +21,5 @@ Every person possesses all seven modules, but one tends to be dominant, shaping 
 ## Topics
 
 - [Detailed Theory of Mental Symmetry](mental_symmetry_theory.md)
+- [Cross-Domain Cognitive Mechanisms: Invariance Analysis](cross_domain_cognitive_mechanisms.md)
 - [Comparison with Big Five Personality Model](big_five_comparison.md)
